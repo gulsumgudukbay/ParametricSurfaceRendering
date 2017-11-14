@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1494363917 source:/home/yigit/project3/Project_Three/main.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<GL/glew.h>
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_events.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<Shader.h>
+	<math.h>
+	<vector>
+
+1494353441 source:/home/yigit/project3/Project_Three/src/Shader.cpp
+	"Shader.h"
+	<iostream>
+	<fstream>
+
+1494353142 /home/yigit/project3/Project_Three/include/Shader.h
+	<string>
+	<GL/glew.h>
+
